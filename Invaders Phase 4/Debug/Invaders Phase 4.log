@@ -1,0 +1,36 @@
+﻿  GameController.cpp
+  Graphics.cpp
+  Level_Game.cpp
+  Level_GameOver.cpp
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Level_GameOver.cpp(20,10): warning C4101: 'gameMsg': unreferenced local variable
+  Level_Loading.cpp
+  Level_Main.cpp
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Level_Main.cpp(113,13): warning C4305: '=': truncation from 'double' to 'float'
+  Level_WinGame.cpp
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Level_WinGame.cpp(19,10): warning C4101: 'gameMsg': unreferenced local variable
+  main.cpp
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Object_Block.cpp
+  Object_Enemy.cpp
+  Object_Game.cpp
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Game.cpp(32,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Game.cpp(36,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Object_Mobile.cpp
+  Object_Player.cpp
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(110,38): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(111,40): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(117,38): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(118,40): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(130,79): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(131,81): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(137,79): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(138,81): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(144,79): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(145,81): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(151,48): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Minot State\CS Classes\Frogger Game\Invaders Phase 4\Object_Player.cpp(152,49): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Object_Text.cpp
+  Object_Vehicle.cpp
+  SpriteSheet.cpp
+  Generating Code...
+  Invaders Phase 4.vcxproj -> D:\Minot State\CS Classes\Frogger Game\Debug\Invaders Phase 4.exe

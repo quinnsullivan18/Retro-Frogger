@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Object_Block" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAEAAAAgAAAIAAAAAAgAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Object_Block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Bullets" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAABAAAAAAAAAAAAgAACAAAAIAAA=</HashCode>
+      <FileName>Object_Bullets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Bullets_Player" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Object_Bullets_Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Game" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAABACABAAAAAAAAw4BBkAEBIAAA=</HashCode>
+      <FileName>Object_Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Mobile" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAABAAAAAACAAAAAAAAAAQAAAAQAAAAEAAA=</HashCode>
+      <FileName>Object_Mobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Player" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAGAAEBAABAZAABBAAAAAAAAAIACAQAAAAAFIAAA=</HashCode>
+      <FileName>Object_Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Text" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAQAAAgQIgAAAAAAAEAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object_Text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Vehicles" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object_Vehicle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Enemy" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQCJAAA=</HashCode>
+      <FileName>Object_Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
