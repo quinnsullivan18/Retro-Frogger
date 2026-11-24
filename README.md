@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Frogger Game
 
 A small Frogger-inspired game written in C++ with Win32 and Direct2D.
@@ -30,4 +29,3 @@ This project recreates the basic gameplay of the original Frogger — guide your
 - Contains **a single playable level**
 - After winning, you can **choose to replay or quit**
 - Features basic graphics in the project folder
->>>>>>> 5140e6bb97bee42e9580a265d0253baf28f1a4aa
