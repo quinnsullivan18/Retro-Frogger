@@ -1,0 +1,6 @@
+.vs/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Ww]in32/
+**/[Xx]64/
+*.vcxproj.user
